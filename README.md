@@ -22,8 +22,8 @@ This repository contains all the labs files for Advanced Analytics, for DSA
 3. [Lab 3: Web Scraping - 2](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%203)
 4. [Lab 4: Customer Churn Analysis](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%204) 
 5. [Lab 5: Gen AI - Gemini Basics](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%205)
-<!-- 6. [Lab 6: Time Series Analysis](experiments/Experiment6_Time_Series_Analysis.ipynb)
-7. [Lab 7: Dimensionality Reduction](experiments/Experiment7_Dimensionality_Reduction.ipynb)
+6. [Lab 6: Gen AI -  Gemini Text to text and Image to text Streamlit App](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%206)
+<!-- 7. [Lab 7: Dimensionality Reduction](experiments/Experiment7_Dimensionality_Reduction.ipynb)
 8. [Lab 8: Natural Language Processing (NLP)](experiments/Experiment8_Natural_Language_Processing.ipynb)-->
 
 ## Run Locally
