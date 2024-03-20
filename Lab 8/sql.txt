@@ -11,7 +11,7 @@ INSERT INTO products (product_name, category, price, quantity_left, brand, descr
 VALUES 
 ('Cotton Shirt', 'Shirt', 19.99, 10, 'Nike', 'Comfortable cotton shirt for everyday wear.'),
 ('Striped Polo Shirt', 'Shirt', 24.99, 10, 'Adidas', 'Classic polo shirt with stylish stripes.'),
-('Button-Up Shirt', 'Shirt', 29.99, 10, 'Tommy Hilfiger', 'Formal button-up shirt suitable for office wear.'),
+('Button-Up Shirt', 'Shirt', 29.99, 10, 'Nike', 'Formal button-up shirt suitable for office wear.'),
 ('Denim Shirt', 'Shirt', 34.99, 10, 'Levi\'s', 'Casual denim shirt for a relaxed look.'),
 ('Flannel Shirt', 'Shirt', 39.99, 10, 'Ralph Lauren', 'Warm flannel shirt perfect for chilly days.'),
 ('Plaid Shirt', 'Shirt', 44.99, 10, 'Calvin Klein', 'Trendy plaid shirt for a fashionable look.'),
@@ -19,7 +19,7 @@ VALUES
 ('Henley Shirt', 'Shirt', 54.99, 10, 'H&M', 'Stylish Henley shirt for a casual yet trendy look.'),
 ('V-Neck T-Shirt', 'Shirt', 59.99, 10, 'Zara', 'Basic V-neck t-shirt suitable for layering.'),
 ('Graphic Tee', 'Shirt', 64.99, 10, 'Forever 21', 'Trendy graphic tee with unique design.'),
-('Slim Fit Pants', 'Pants', 29.99, 10, 'Dockers', 'Slim fit pants for a modern silhouette.'),
+('Slim Fit Pants', 'Pants', 29.99, 10, 'Nike', 'Slim fit pants for a modern silhouette.'),
 ('Khaki Chinos', 'Pants', 34.99, 10, 'Banana Republic', 'Classic khaki chinos suitable for various occasions.'),
 ('Cargo Pants', 'Pants', 39.99, 10, 'Columbia', 'Durable cargo pants with multiple pockets for utility.'),
 ('Skinny Jeans', 'Pants', 44.99, 10, 'Guess', 'Trendy skinny jeans for a sleek look.'),
