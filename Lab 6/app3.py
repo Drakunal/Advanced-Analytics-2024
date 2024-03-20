@@ -17,7 +17,9 @@ def get_gemini_response(question, image=None, model_type='gemini-pro'):
     model = genai.GenerativeModel(model_type)
     if image:
         if question!="":
-            return model.generate_content([question, image]).text
+            response = model.generate_content([question, image])
+            # print (response.candidates[0].content.parts)
+            return response.text
         else:
             return model.generate_content(image).text
     else:
