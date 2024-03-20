@@ -1,4 +1,3 @@
-```
 # Project Name
 
 ## Introduction
@@ -56,6 +55,3 @@ GOOGLE_API_KEY = 'Your api key'
 ## Contributing
 
 Contributions are welcome!
-
-
-```
