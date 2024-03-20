@@ -7,7 +7,7 @@ import mysql.connector
 
 import google.generativeai as genai
 
-## Configure Genai Key
+## Configure GenAI Key
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 #DB Connection and configuration
