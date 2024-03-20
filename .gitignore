@@ -1,2 +1,5 @@
 */.ipynb_checkpoints
 */.env
+*/venv
+*/.vscode
+*/faiss_index
