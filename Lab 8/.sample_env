@@ -1,2 +1,4 @@
-#rename the file to .env and remove this comment after adding your api key below
-GOOGLE_API_KEY = 'Your api key'
+GOOGLE_API_KEY = ''
+password = ''
+user = ""
+host = ""

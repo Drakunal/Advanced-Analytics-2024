@@ -12,10 +12,10 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 #DB Connection and configuration
 mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="",
-    database=" retail_store_genai"
+    host = os.getenv("host"),
+    user = os.getenv("user"),
+    password = os.getenv("password"),
+    database = "retail_store"
 )
 
 ## Function To Load Google Gemini Model and provide queries as response
